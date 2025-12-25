@@ -64,7 +64,3 @@ Al iniciar el proyecto, se encuentra vacío.
 
 
 
-
-✅ Conclusión
-
-El proyecto cumple con todos los requerimientos del desafío, haciendo uso correcto de Node.js, el módulo File System, el manejo de archivos JSON y la ejecución mediante argumentos por línea de comandos.
